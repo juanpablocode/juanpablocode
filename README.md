@@ -20,5 +20,6 @@
   <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Juan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Juan-pic" height="300" style="border-radius:100px;" <src="https://cdn.discordapp.com/avatars/745698234739064873/72d3908434f39e7adfe3f2aaa53e0e3b.webp?size=80">
+  <img align="right" alt="Juan-pic" height="150" style="border-radius:50px;"
+       src="https://cdn.discordapp.com/avatars/745698234739064873/72d3908434f39e7adfe3f2aaa53e0e3b.webp?size=80">
 </div>
