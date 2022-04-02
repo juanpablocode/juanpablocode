@@ -24,7 +24,7 @@
        src="https://cdn.discordapp.com/avatars/745698234739064873/72d3908434f39e7adfe3f2aaa53e0e3b.webp?size=80">
 </div>
 
-    ##
+  ##
  
 <div> 
   <a href="https://www.instagram.com/juan_pablo17k" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
