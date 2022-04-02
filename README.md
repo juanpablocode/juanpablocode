@@ -23,3 +23,11 @@
   <img align="right" alt="Juan-pic" height="150" style="border-radius:50px;"
        src="https://cdn.discordapp.com/avatars/745698234739064873/72d3908434f39e7adfe3f2aaa53e0e3b.webp?size=80">
 </div>
+
+    ##
+ 
+<div> 
+  <a href="https://www.instagram.com/juan_pablo17k" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:juanoliveira110@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/juan-pablo-01a210235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
