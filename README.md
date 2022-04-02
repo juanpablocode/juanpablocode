@@ -7,6 +7,8 @@
 - 📫 juanoliveira110@gmail.com
 - 🍀 Sorte é quando o esforço e a Oportunidade se Encontram!
 
+  ##
+
 <div align="center">
   <a href="https://github.com/juanpablocode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanpablocode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
