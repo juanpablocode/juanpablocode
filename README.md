@@ -20,5 +20,5 @@
   <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Juan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Juan-pic" height="150" style="border-radius:50px;" <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Juan-pic" height="150" style="border-radius:50px;" <src="https://w7.pngwing.com/pngs/85/463/png-transparent-brian-griffin-peter-griffin-stewie-griffin-glenn-quagmire-griffin-family-brian-robbins-television-white-mammal.png?width=676&height=676">
 </div>
