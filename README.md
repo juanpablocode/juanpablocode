@@ -2,7 +2,7 @@
 
 - 🔭 Estudo Testes Automatizados Web
 - 🌱 Me encontro Finalizando Tecnólogo em DS
-- 👯 Prrocuro Fazer Parte de Equipes de Desenvolvimento
+- 👯 Procuro Fazer Parte de Equipes de Desenvolvimento
 - 💬 Sempre aberto a Perguntas e Ajudar
 - 📫 juanoliveira110@gmail.com
 - 🍀 Sorte é quando o esforço e a Oportunidade se Encontram!
