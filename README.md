@@ -1,7 +1,7 @@
 ### Hi there!!! Sou Juan Pablo 👋
 
-- 🔭 Estudo Testes Automatizados Web
-- 🌱 Me encontro Finalizando Tecnólogo em DS
+- 🔭 Estudo C, arrays Enum e functions
+- 🌱 Me encontro Finalizando o CS50
 - 👯 Procuro Fazer Parte de Equipes de Desenvolvimento
 - 💬 Sempre aberto a Perguntas e Ajudar
 - 📫 juanoliveira110@gmail.com
